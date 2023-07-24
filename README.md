@@ -17,4 +17,4 @@ Fitur :
 | Permainan suwit Jawa  | -> Memainkan suwit jawa(batu,gunting,dan kertas) dengan bot |
 
 ### SCREENSHOT PROGRAM
-![Aplikasi Gue](https://github.com/vierynugroho/UAS-praktikum_SistemOperasi/blob/main/BG-Barca.jpg?raw=true)
+![Aplikasi Berjalan](https://github.com/HAFIDJR/UAS-PraktikumSistemOperasi/blob/main/hafid.png)
